@@ -1,4 +1,4 @@
-# Jessi Lab — Kamehameha
+# Jessi Lab - Kamehameha
 
 Fabriquer un Kamehameha avec un Arduino Nano, un capteur ultrason et un ruban LED adressable !
 
